@@ -521,6 +521,8 @@ h1 :-webkit-any(code, samp, kbd, strong) {
     max-width: 468pt; /* Creates 1 in margin on each side */
     margin-top: 0pt;
     margin-bottom: 0pt;
+    margin-left: 72px;
+    margin-right: 30%;
   }
 
   ul {
